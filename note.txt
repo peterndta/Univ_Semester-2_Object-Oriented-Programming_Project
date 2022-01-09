@@ -1,0 +1,6 @@
+# Object-Oriented-Programming-S2
+-- About The Projects
+Applying Hashmap in Managing Airport.
+Applying Vector in Managing Movie Theater.
+Applying TreeSet in Account Project.
+Applying Array in QLDaoTao (School Managing) and Phone Managing.
